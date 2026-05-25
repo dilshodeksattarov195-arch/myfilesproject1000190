@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routervarse",
+        "uuid": 1110930,
+        "checksum": "f4et3"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
